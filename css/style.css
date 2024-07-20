@@ -1,0 +1,85 @@
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    color: rgb(251, 249, 249);
+    border: 3px solid black;
+    padding: 20px;
+    background-image: url('../images/back3.jpg');
+
+}
+
+.nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    border: 3px solid blue;
+    overflow: hidden;
+    background-image: url('../images/back2.jpeg');
+}
+
+.nav ul li {
+    float: left;
+}
+
+.nav ul li a {
+    display: block;
+    /* border: 3px solid black; */
+   text-align: center;
+    padding: 30px;
+    font-size: 30px;
+    text-decoration: none;
+    padding-bottom: 20px;
+    color: azure;
+
+}
+
+.fruits table,th,td{
+    margin-top: 50px;
+    padding-top: 20px;
+    border: 2px solid rgb(255, 54, 54);
+    border-collapse: collapse;
+    padding: 30px;
+    text-align: center;
+}
+
+.content1{
+    border: 3px solid black;
+    text-align: center;
+    padding: 30px;
+    margin-right: 750px;
+    background-color: aquamarine;
+    margin-top: 10px;
+    
+}
+
+.content2{
+    border: 3px solid black;
+    text-align: center;
+    padding: 30px;
+    margin-left: 750px;
+    background-color: aquamarine;
+    
+}
+
+body{
+    background-color: rgb(252, 243, 167);
+}
+
+.content3{
+    border: 3px solid black;
+    text-align: center;
+    padding: 30px;
+    margin-right: 750px;
+    background-color: aquamarine;
+}
+
+h2{
+    color: blueviolet;
+    font-family: initial;
+
+}
+
+p{
+    color: rgb(234, 36, 112);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
